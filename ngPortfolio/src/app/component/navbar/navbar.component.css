@@ -1,0 +1,15 @@
+.sticky {
+    position:fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    z-index: 900;
+}
+
+.navbar-custom {
+    background-color: #f68a92;
+}
+
+.navbar-custom a {
+    color: rgba(255,255,255,255);
+}
